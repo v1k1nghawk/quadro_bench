@@ -14,4 +14,5 @@ FUNCS Total time for 1000000000 iterations: 4.711271 seconds
 FUNCS Average time per call: 4.711271 nanoseconds
 
 =======================================================
+
 DIFF: 13.5%
